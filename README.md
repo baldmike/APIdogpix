@@ -1,10 +1,8 @@
-# APIs & dogs
+# code_sample - APIs & dogs
 
 Coding sample for TRIBUS, 07/31/19
 
 Vue.js
-
-# code_sample
 
 loader by Derek Fitzpatrick https://giphy.com/gifs/loop-loading-loader-xTk9ZvMnbIiIew7IpW
 
